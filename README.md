@@ -70,3 +70,23 @@ This project demonstrates how data analysis and storytelling via Power BI can he
 - Build brand‑aligned dashboards and executive summaries
 
 - Support strategic decisions like inventory planning and layout optimization
+
+
+<img src="https://github.com/Sourabh3024/Blinkit-Sales-Data-Analysis-/blob/5cfb712cb97b4b781bbf38e18eb3533a0278d601/1_Data-Driven-Insights-for-Blinkit-Grocery-Sales.png" alt="Image Description" width="600">
+
+<img src="https://github.com/Sourabh3024/Blinkit-Sales-Data-Analysis-/blob/5cfb712cb97b4b781bbf38e18eb3533a0278d601/2_Top-10-Selling-Grocery-Items.png" alt="Image Description" width="600">
+
+<img src="https://github.com/Sourabh3024/Blinkit-Sales-Data-Analysis-/blob/5cfb712cb97b4b781bbf38e18eb3533a0278d601/3_Sales-Performance-by-Outlet-Type.png" width="600">
+
+<img src="https://github.com/Sourabh3024/Blinkit-Sales-Data-Analysis-/blob/5cfb712cb97b4b781bbf38e18eb3533a0278d601/4_Sales-Variation-by-Outlet-Location.png" width="600">
+
+<img src="https://github.com/Sourabh3024/Blinkit-Sales-Data-Analysis-/blob/5cfb712cb97b4b781bbf38e18eb3533a0278d601/5_Item-Fat-Content-Distribution.png" width="600">
+
+<img src="https://github.com/Sourabh3024/Blinkit-Sales-Data-Analysis-/blob/5cfb712cb97b4b781bbf38e18eb3533a0278d601/6_Impact-of-Outlet-Age-on-Sales-Performance.png" width="600">
+
+<img src="https://github.com/Sourabh3024/Blinkit-Sales-Data-Analysis-/blob/5cfb712cb97b4b781bbf38e18eb3533a0278d601/7_Top-Selling-Item-Types-and-Their-MRP.png" width="600">
+
+<img src="https://github.com/Sourabh3024/Blinkit-Sales-Data-Analysis-/blob/5cfb712cb97b4b781bbf38e18eb3533a0278d601/8_Key-Performance-Indicators-and-Dashboard-Overview.png" width="600">
+
+<img src="https://github.com/Sourabh3024/Blinkit-Sales-Data-Analysis-/blob/5cfb712cb97b4b781bbf38e18eb3533a0278d601/Dashboard.jpg" width="600">
+
